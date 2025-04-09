@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athaarnaqvi&label=Profile%20views&color=0e75b6&style=flat" alt="athaarnaqvi" /> </p>
 
-- 🔭 I’m currently working on **Vision Integration with GNS3**
+- 🔭 I’m currently working on **Visio Integration with GNS3**
 
 - 🌱 I’m currently learning **Networks, Java**
 
