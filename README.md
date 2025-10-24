@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Athaar Naqvi</h1>
-<h3 align="center">Networks and Devops explorer</h3>
+<h3 align="center">Networks, Devops and Opensource Explorer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athaarnaqvi&label=Profile%20views&color=0e75b6&style=flat" alt="athaarnaqvi" /> </p>
 
-- 🔭 I’m currently working on **Visio Integration with GNS3**
-
-- 🌱 I’m currently learning **Networks, Java**
+- 🔭 I’m currently working on **Network Automation and Opensource Projects**
 
 - 📫 How to reach me **athaarnaqvi6@gmail.com**
 
