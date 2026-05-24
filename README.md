@@ -19,7 +19,7 @@
 ### About
 
 Final-year CS student specialising in **AI, NLP, and backend systems**.
-Currently working on **network automation**, **LLM-powered pipelines**, and open-source tooling.
+Currently working on **network automation**, **LLM-powered pipelines**, and **open-source tooling**.
 
 ---
 
