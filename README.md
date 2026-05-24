@@ -54,8 +54,8 @@ Currently working on **network automation**, **LLM-powered pipelines**, and open
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=athaarnaqvi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athaarnaqvi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=athaarnaqvi&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=athaarnaqvi&theme=tokyonight" height="150" />
 </p>
 
 <p align="center">
